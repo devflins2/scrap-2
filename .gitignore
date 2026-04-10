@@ -1,0 +1,17 @@
+# Environment variables (Sensitive)
+src/.env
+.env
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Temporary files
+/tmp/
+videos/
+*.mp4
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
